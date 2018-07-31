@@ -1,0 +1,29 @@
+204_2.4G
+-20 dbm
+216.7 Mbps
+near ap
+
+204_2.4G
+-43 dbm
+216.7 Mbps
+講桌
+
+204_2.4G
+-34 dbm
+216.7 Mbps
+front door
+
+204_5G
+-89 dbm
+ Mbps
+near ap
+
+204_5G
+無 dbm
+ Mbps
+講桌
+
+204_5G
+-84 dbm
+ Mbps
+front door

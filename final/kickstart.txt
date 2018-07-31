@@ -1,0 +1,16 @@
+install text
+lang en_GB.UTF-8
+keyboard us
+network --onboot yes --device eth0 --bootproto dhcp
+rootpw
+firewall --disable
+authconfig --enableshadow --enablemd5
+selinux --disabled
+timezone  Asia/Taipei
+bootloader --location=mbr --driveorder=vda,sda,hda --append="crashkernel=auto rhgb quiet"
+reboot
+
+#%packages --nobase
+#%pre
+#%post
+%end
